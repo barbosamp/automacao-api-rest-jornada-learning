@@ -2,7 +2,7 @@ import unittest
 import requests
 import json
 
-BASE_URL = "https://api.serverest.dev"
+BASE_URL = "https://serverest.dev"
 
 
 class Users(unittest.TestCase):

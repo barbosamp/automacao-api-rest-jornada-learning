@@ -3,7 +3,7 @@ import requests
 import json
 import pytest
 
-BASE_URL = "https://api.serverest.dev"
+BASE_URL = "https://serverest.dev"
 
 
 class Products(unittest.TestCase):
